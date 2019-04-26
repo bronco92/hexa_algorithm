@@ -1,7 +1,8 @@
 # how to use
 
 1. download all files
-2. open index.html in any browser
+2. unzip the files into a project folder
+3. open index.html in any browser
 
 ## change stuff uhm?
 
