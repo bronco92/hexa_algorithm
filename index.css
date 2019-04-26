@@ -1,0 +1,30 @@
+.path {
+    fill: none;
+    stroke-dasharray: 119124.96875;
+    stroke-dashoffset: 119124.96875;
+    animation: /*dash 5s linear forwards,*/ filler 1ms linear forwards;
+}
+
+body {
+    position: absolute;
+}
+
+@keyframes dash {
+    0% {
+        stroke-dashoffset: 119124.96875;
+    }
+
+    100% {
+        fill: none;
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes filler {
+    0% {
+        fill: none;
+    }
+    100% {
+        fill: url(#pattern1);
+    }
+}

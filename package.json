@@ -1,0 +1,11 @@
+{
+  "name": "hexaalgorithm",
+  "version": "0.9",
+  "description": "Simple Tool",
+  "main": "main.js",
+  "author": "Kevin Gröger",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^0.7.3"
+  }
+}
