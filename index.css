@@ -2,7 +2,7 @@
     fill: none;
     stroke-dasharray: 119124.96875;
     stroke-dashoffset: 119124.96875;
-    animation: /*dash 5s linear forwards,*/ filler 1ms linear forwards;
+    animation: /*dash 5s linear forwards,*/ filler 5s linear forwards;
 }
 
 body {

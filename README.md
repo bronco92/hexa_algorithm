@@ -38,6 +38,8 @@ The important thing here is
  
 change the line `filler 1ms linear forward`, just put any number of miliseconds or seconds (just change to `s` instead of `ms`) in there
 
+(this does really not work like intended lol)
+
 
 the outer line can be activated through uncommenting `dash 5s linear forwards`
 
