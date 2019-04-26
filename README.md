@@ -11,7 +11,9 @@ open up `index.html` in a code editor (vscode, notepad++ or whatever)
 The important thing here is 
 `<pattern ... />` as it defines the circles
  
- `cx` and `cy` need to be half of the `width` and `height`
+ `x` and `y` simply define the starting position, can be anything - just play around and see what's best.
+ 
+ `cx` and `cy` (circle x and circle y) need to be half of the `width` and `height`
  
  `width` and `height` should be same for a circle
  
