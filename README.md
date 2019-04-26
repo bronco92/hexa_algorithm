@@ -29,6 +29,8 @@ The important thing here is
  `stroke-width` defines how thick the border of the circles should be. Can also be `0`.
  
  
+ note: stroke is disabled, uncomment the dash animation (see below) to use it.
+ 
  ### animations? 
  
  yes.
